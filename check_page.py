@@ -6,7 +6,7 @@ with open('url.txt', 'r') as text_file:
 
 for line in url_list:
     url = line.replace(
-        'https://polyglass.ru', 'http://poly.raz-vitie.ru'
+        'https://site.ru', 'http://test.site.ru'
     ).strip()
 
     print(str(url_list.index(line) + 1) + ' of ' + str(len(url_list)))
