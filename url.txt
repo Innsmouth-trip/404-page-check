@@ -1,1 +1,6 @@
- 
+http://test.site.ru/page1
+http://test.site.ru/page1
+http://test.site.ru/page1
+http://test.site.ru/page1
+http://test.site.ru/page1
+
